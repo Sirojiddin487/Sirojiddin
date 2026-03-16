@@ -1,5 +1,5 @@
 [![Cybersecurity Profile](https://cdn.phototourl.com/uploads/2026-03-16-b7e24636-8753-44e5-b284-2ac87d81065f.jpg)](https://github.com/Sirojiddin487)
-
+![Hi There! I’m Sirojiddin, Cybersecurity Specialist; Pentesting Tester; Python Security Developer](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=2000&color=00FF00&background=0D0D0D00&center=true&width=600&height=100&lines=Hi+There!+I%E2%80%99m+Sirojiddin;Cybersecurity+Specialist;Pentesting+Tester;Python+Security+Developer)
 # Salom! 👋 Men Sirojiddin Abdukarimov
 
 Men web dasturlash, sun’iy intellekt va zamonaviy texnologiyalar bilan shug‘ullanadigan dasturchiman.  
