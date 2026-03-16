@@ -290,28 +290,42 @@ print(f"Har bir yangi loyiha: {VENV_COMMAND}")
 ## 🛣️ O'rganish yo'li (Roadmap)
 
 ```
-2024 — Boshlash
-  ✅ HTML & CSS — Sayt qurish asoslari
+2023 — Boshlash 🚀
   ✅ Python basics — Sintaksis, funksiyalar, OOP
+  ✅ HTML & CSS — Sayt qurish asoslari
   ✅ Git & GitHub — Version control
-  ✅ Linux asoslari — Terminal, fayl tizimi
+  ✅ JavaScript asoslari — DOM, Events
 
-2025 (Hozir)
+2024 — Web Dev 🌐
   ✅ Python venv — Professional loyiha muhiti
   ✅ Aiogram 3 — Telegram bot framework
   ✅ SQLite — Ma'lumotlar bazasi
   ✅ FastAPI — REST API yaratish
-  ✅ JavaScript — DOM, Events, Fetch
-  🔄 React.js — UI komponentlar (hozir)
-  🔄 PostgreSQL — Katta DB (hozir)
-  🔄 Docker — Konteynerizatsiya (hozir)
+  ✅ Django — Web framework
 
-2026 (Rejalashtirilgan)
+2024–2025 — Tanaffus ⏸️
+  📖 Tajriba va hayot darslari
+  🔄 Texnologiyalarni mustahkamlash
+
+2025–2026 — Cybersecurity 🔐
+  ✅ Linux — Terminal, fayl tizimi, skriptlar
+  ✅ Tarmoq asoslari — TCP/IP, DNS, HTTP
+  ✅ Kali Linux — Penetration testing tools
+  ✅ Nmap, Burp Suite — Recon & scanning
+  ✅ Web vulnerabilities — XSS, SQLi, IDOR
+  ✅ CTF challenges — HackTheBox, TryHackMe
+  ✅ OSINT — Ochiq manba razvedkasi
+  ✅ Security audit — Homexs.uz report
+
+2026 — Hozir & Kelajak 🎯
+  🔄 Python + Cybersecurity birlashtirish
+  🔄 React.js — Frontend
+  📌 Bug bounty dasturlari
+  📌 CEH / CompTIA Security+ sertifikat
   📌 Django REST Framework
-  📌 Machine Learning (scikit-learn)
-  📌 Cloud deployment (AWS/VPS)
+  📌 Cloud Security (AWS)
   📌 Open Source contribution
-  📌 Birinchi freelance loyiha
+  📌 Birinchi freelance / bug bounty topish
 ```
 
 ---
