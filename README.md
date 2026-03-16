@@ -22,8 +22,10 @@ O‘rganish, tajriba orttirish va foydali texnologik yechimlar yaratish mening a
 
 ---
 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_abdukarimov.pg) 
+[![Telegram](https://img.shields.io/badge/Telegram-%2300BFFF.svg?logo=Telegram&logoColor=white)](https://t.me/abdukarimof_pg)
 
 ---
 
