@@ -1,4 +1,4 @@
-![Coding]([https://assets.grok.com/users/300f135b-162a-4d3a-9623-e504881e437c/generated/d3c5a0fe-df52-454c-86db-2507fb7157ca/image.jpg](https://drive.google.com/file/d/15lv1qAj5jLC1LAQJ53dv0NNq_wOTKrtm/view?usp=drive_link))
+![Coding]([https://cdn.phototourl.com/uploads/2026-03-16-b7e24636-8753-44e5-b284-2ac87d81065f.jpg))
 
 # Salom! 👋 Men Sirojiddin Abdukarimov
 
