@@ -1,4 +1,4 @@
-[![Watch on YouTube](https://www.youtube.com/watch?v=8FFqFSOBHzU)](https://www.youtube.com/watch?v=8FFqFSOBHzU)
+[!img(https://assets.grok.com/users/300f135b-162a-4d3a-9623-e504881e437c/generated/d3c5a0fe-df52-454c-86db-2507fb7157ca/image.jpg)]
 
 # Salom! 👋 Men Sirojiddin Abdukarimov
 
