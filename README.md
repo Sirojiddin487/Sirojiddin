@@ -1,4 +1,4 @@
-![Coding](https://assets.grok.com/users/300f135b-162a-4d3a-9623-e504881e437c/generated/d3c5a0fe-df52-454c-86db-2507fb7157ca/image.jpg)
+![Coding]([https://assets.grok.com/users/300f135b-162a-4d3a-9623-e504881e437c/generated/d3c5a0fe-df52-454c-86db-2507fb7157ca/image.jpg](https://drive.google.com/file/d/15lv1qAj5jLC1LAQJ53dv0NNq_wOTKrtm/view?usp=drive_link))
 
 # Salom! 👋 Men Sirojiddin Abdukarimov
 
