@@ -1,4 +1,4 @@
-![Wallpaper](C:\Users\Aziza\Downloads\ghost-of-tsushima-samurai-red-sky-wallpaperwaves-com.mp4)
+![Wallpaper](https://www.youtube.com/watch?v=8FFqFSOBHzU)
 
 # Salom! 👋 Men Sirojiddin Abdukarimov
 
