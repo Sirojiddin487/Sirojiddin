@@ -22,7 +22,7 @@
 class Developer:
     def __init__(self):
         self.name        = "Sirojiddin Abdukarimov"
-        self.age         = 17
+        self.age         = 16
         self.location    = "Uzbekistan 🇺🇿"
         self.role        = "Student | Python Developer"
         self.main_lang   = "Python 🐍"
