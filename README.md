@@ -183,7 +183,7 @@ To'liq CRUD REST API. Token autentifikatsiya, Swagger UI, virtual muhit.
 </tr>
 </table>
 
-> 💡 Barcha loyihalarimni [bu yerda](https://github.com/Sirojiddin487?tab=repositories) ko'rishingiz mumkin
+
 
 ---
 
