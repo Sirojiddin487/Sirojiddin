@@ -1,4 +1,4 @@
-![Coding]([https://cdn.phototourl.com/uploads/2026-03-16-b7e24636-8753-44e5-b284-2ac87d81065f.jpg))
+[![Cybersecurity Profile](https://cdn.phototourl.com/uploads/2026-03-16-b7e24636-8753-44e5-b284-2ac87d81065f.jpg)](https://github.com/Sirojiddin487)
 
 # Salom! 👋 Men Sirojiddin Abdukarimov
 
