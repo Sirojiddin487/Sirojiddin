@@ -1,4 +1,4 @@
-![Wallpaper](https://play.vsthemes.org/nova/1024576-1/28b/59328ba72496b2de5755156e45b72b8b.gif)
+![Wallpaper](C:\Users\Aziza\Downloads\ghost-of-tsushima-samurai-red-sky-wallpaperwaves-com.mp4)
 
 # Salom! 👋 Men Sirojiddin Abdukarimov
 
