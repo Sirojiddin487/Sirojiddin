@@ -8,7 +8,7 @@
 
 ### 🇺🇿 O'zbekistonlik 17 yoshli Python Developer
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=Sirojiddin487&icon=5&color=6)](https://visitcount.itsvg.in)
+
 [![GitHub followers](https://img.shields.io/github/followers/Sirojiddin487?style=social)](https://github.com/Sirojiddin487)
 [![GitHub stars](https://img.shields.io/github/stars/Sirojiddin487?style=social)](https://github.com/Sirojiddin487)
 
