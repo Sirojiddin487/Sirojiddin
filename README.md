@@ -1,8 +1,8 @@
 [![Cybersecurity Profile](https://cdn.phototourl.com/uploads/2026-03-16-b7e24636-8753-44e5-b284-2ac87d81065f.jpg)](https://github.com/Sirojiddin487)
 
 <div align="center">
+https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=29&pause=1300&color=8A2BE2&center=true&vCenter=true&width=720&height=200&lines=Sirojiddin+Abdukarimov;Python+%7C+AI+Engineer;Bots+%26+Automation;Open+Source+Enthusiast
 
-[[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1400&color=8A2BE2&center=true&vCenter=true&width=720&height=240&lines=👾+Sirojiddin+Abdukarimov;Python+%7C+AI+Engineer;Cyber+Systems+Builder+⚡;Bots+%26+Automation+🤖;Open+Source+Enthusiast;Code.+Create.+Dominate.🔥)](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Sirojiddin+Abdukarimov;Python+%7C+AI+Engineer;Bots+%26+Automation;Open+Source+Enthusiast)](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=👾+Sirojiddin+Abdukarimov;Python+%7C+AI+Engineer;Cyber+Systems+⚡;Bots+%26+Automation+🤖;Open+Source)
 # 👋 Salom! Men **Sirojiddin Abdukarimov**
 
 ### 🇺🇿 O'zbekistonlik 16 yoshli Python Developer
