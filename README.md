@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=850&color=00FF00&background=000000&center=true&vCenter=true&width=800&height=220&lines=root@dev:~%24+whoami;Sirojiddin+Abdukarimov;root@dev:~%24+skills;Python+%7C+AI+Engineer;Bots+%26+Automation;root@dev:~%24+status;Open+Source+Enthusiast;root@dev:~%24+%7C)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=850&color=00FF00&center=true&vCenter=true&width=800&height=220&lines=root@dev:~%24+whoami;Sirojiddin+Abdukarimov;root@dev:~%24+skills;Python+%7C+AI+Engineer;Bots+%26+Automation;root@dev:~%24+status;Open+Source+Enthusiast;root@dev:~%24+%7C)
 # 👋 Salom! Men **Sirojiddin Abdukarimov**
 
 ### 🇺🇿 O'zbekistonlik 16 yoshli Python Developer
